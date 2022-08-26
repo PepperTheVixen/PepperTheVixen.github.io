@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>pepperthevixen.com/</loc>
+    <loc>pepperthevixen.github.io/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>pepperthevixen.com/commissions/</loc>
+    <loc>pepperthevixen.github.io/commissions/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>pepperthevixen.com/music/</loc>
+    <loc>pepperthevixen.github.io/music/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>pepperthevixen.com/beanthemes/</loc>
+    <loc>pepperthevixen.github.io/beanthemes/</loc>
   </url><url>
-    <loc>pepperthevixen.com/categories/</loc>
+    <loc>pepperthevixen.github.io/categories/</loc>
   </url><url>
-    <loc>pepperthevixen.com/everyonegames/</loc>
+    <loc>pepperthevixen.github.io/everyonegames/</loc>
   </url><url>
-    <loc>pepperthevixen.com/tags/</loc>
+    <loc>pepperthevixen.github.io/tags/</loc>
   </url>
 </urlset>

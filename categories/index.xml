@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PepperTheVixen</title>
-    <link>pepperthevixen.com/categories/</link>
+    <link>pepperthevixen.github.io/categories/</link>
     <description>Recent content in Categories on PepperTheVixen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="pepperthevixen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="pepperthevixen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
