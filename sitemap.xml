@@ -5,17 +5,19 @@
     <loc>/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>/beanthemes/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/commissions/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>/everyonegames/</loc>
     <priority>0</priority>
   </url><url>
     <loc>/music/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/beanthemes/</loc>
-  </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/everyonegames/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
