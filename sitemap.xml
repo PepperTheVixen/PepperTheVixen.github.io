@@ -14,10 +14,10 @@
     <loc>/everyonegames/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/livestreams/</loc>
+    <loc>/music/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/music/</loc>
+    <loc>/twitch/</loc>
     <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
