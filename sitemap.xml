@@ -17,6 +17,9 @@
     <loc>/music/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>/terms/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/twitch/</loc>
     <priority>0</priority>
   </url><url>
