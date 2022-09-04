@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PepperTheVixen</title>
-    <link>/</link>
+    <link>pepperthevixen.com/</link>
     <description>Recent content on PepperTheVixen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="pepperthevixen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/beanthemes/</link>
+      <link>pepperthevixen.com/beanthemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/beanthemes/</guid>
+      <guid>pepperthevixen.com/beanthemes/</guid>
       <description>Bean Themes Have you ever thought about what kind of theme song your character, pet, or fursona might have? Techno, EDM, synthwave, or some rock organ? Maybe you need a retro chiptune for your protogen, or nothing short of a lively tropical jam will do for your parrot. Perhaps there&amp;rsquo;s a suave fox who needs to get down to some heart-pounding EDM or prowl the neon streets of synthwave city. Either way, your character deserves a great tune to go with all of that exquisite artwork you have.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/commissions/</link>
+      <link>pepperthevixen.com/commissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/commissions/</guid>
+      <guid>pepperthevixen.com/commissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/everyonegames/</link>
+      <link>pepperthevixen.com/everyonegames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/everyonegames/</guid>
+      <guid>pepperthevixen.com/everyonegames/</guid>
       <description>Everyone-Games Everyone-Games is a Team of Volunteers… Promoting accessibility through online events, software solutions, games, social media activism, and working with game developers in the industry.
 General Info This year, Everyone-Games is partnering with two charities: Everyone Can and Stack Up
 Donation Campaign Guess what? I&amp;rsquo;m going to be there! I&amp;rsquo;ll be streaming Stardew Valley, showing how us blind folk play videogames, and raising money for both charities!
@@ -38,31 +38,32 @@ Donate to Everyone Can on Tiltify Donate to Stack Up on Tiltify Join in!</descri
     
     <item>
       <title></title>
-      <link>/music/</link>
+      <link>pepperthevixen.com/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/terms/</guid>
+      <guid>pepperthevixen.com/terms/</guid>
       <description>Composition Terms of Service By commissioning PepperTheVixen (me, the composer), you (the client) agree to the following terms:
 1. Ownership: A. The composer will retain copyright of all works created under commission, unless otherwise agreed in writing. If rights are transferred to the client, the composer will relinquish the copyright to the work once ownership has been transferred.B. The composer retains the right to exhibit the commissioned work in all mediums, unless otherwise agreed in writing.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/twitch/</link>
+      <link>pepperthevixen.com/twitch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/twitch/</guid>
+      <guid>pepperthevixen.com/twitch/</guid>
       <description>Twitch Streams I&amp;rsquo;m on Twitch! Come watch me play games and make music! https://www.twitch.tv/pepperthevixen
 What do I stream? I stream games, music, and generally have a good time. I make jokes, say silly stuff, talk to viewers, yell at pixels, and just have fun! Any game I play will be accessible to blind players since I myself am blind! I&amp;rsquo;ll talk about how I play, and I&amp;rsquo;m happy to share info with other blind folk looking to get into (or back into) gaming.</description>
+    </item>
+    
+    <item>
+      <title>Music - PepperTheVixen</title>
+      <link>pepperthevixen.com/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pepperthevixen.com/music/</guid>
+      <description>Pull up your headphones and take a listen below to what I&amp;rsquo;ve got!
+Dwarven Future </description>
     </item>
     
   </channel>
